@@ -1,16 +1,28 @@
-### Hi there 👋
+<div align='center'>
+    <h1 align='center'>
+    Olá, sou a Ingridy Alessandretti! 
+    <br/>
+    Bem vindo(a) ao meu perfil! 
+    </h1>  
+</div>
 
-<!--
-**Ingridy-aless/Ingridy-aless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 📍 Informações:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 Explorando novas tecnologias e conceitos sobre qualidade e desenvolvimento de software
+- 🎓 Engenharia Química e ADS (UPF)
+- 💼 Bolsista QA Compass.uol
+- 💻 Aprendendo sobre QA, automação de teste e desenvolvimento web e mobile.
+
+
+### 📍 Tecnologias:
+
+[![Habilidades](https://skillicons.dev/icons?i=html,css,py,php,java,postgres,postman,git,gitlab,github,eclipse,vscode)](https://skillicons.dev)
+
+
+### 📍 Contato:
+
+<div>
+  <a href="https://www.linkedin.com/in/ingridy-alessandretti-6787841a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:ingridyalessandretti7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
