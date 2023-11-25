@@ -17,7 +17,7 @@
 
 ### 📍 Tecnologias:
 
-[![Habilidades](https://skillicons.dev/icons?i=html,css,py,php,java,postgres,postman,git,gitlab,github,eclipse,vscode)](https://skillicons.dev)
+[![Habilidades](https://skillicons.dev/icons?i=html,css,javascript,py,php,java,postgres,postman,git,gitlab,github,eclipse,vscode)](https://skillicons.dev)
 
 
 ### 📍 Contato:
