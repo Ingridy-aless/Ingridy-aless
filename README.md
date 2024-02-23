@@ -11,7 +11,6 @@
 
 - 📚 Explorando novas tecnologias e conceitos sobre qualidade e desenvolvimento de software
 - 🎓 Engenharia Química e ADS (UPF)
-- 💼 Bolsista QA Compass.uol
 - 💻 Aprendendo sobre QA, automação de teste e desenvolvimento web e mobile.
 
 
