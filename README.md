@@ -11,12 +11,12 @@
 
 - 📚 Explorando novas tecnologias e conceitos sobre qualidade e desenvolvimento de software
 - 🎓 Engenharia Química e ADS (UPF)
-- 💻 Aprendendo sobre QA, automação de teste e desenvolvimento web e mobile.
+- 💻 Aprendendo sobre QA, automação de teste e desenvolvimento web.
 
 
 ### 📍 Tecnologias:
 
-[![Habilidades](https://skillicons.dev/icons?i=html,css,javascript,py,php,java,postgres,postman,git,gitlab,github,eclipse,vscode)](https://skillicons.dev)
+[![Habilidades](https://skillicons.dev/icons?i=js,html,css,ts,nodejs,react,postgres,postman,git,github,vscode)](https://skillicons.dev)
 
 
 ### 📍 Contato:
